@@ -1,16 +1,35 @@
-## Hi there 👋
+Hello, I'm Andee Harston
 
-<!--
-**celticgo/celticgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a cybersecurity professional with over 20 years experience in Cybersecurity, IT and Content Creation.  I hold a variety of certifications and have vast expereince in risk management in the federal saector.
 
-Here are some ideas to get you started:
+Objective
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My career journey has led me to develop a passion for cybersecurity, and I would now like to transition into more of a hands-on or individual contributor role. 
+
+Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
+Skill	Associated Project
+SIEM Implementation and Log Analysis	Detection Lab
+Network Traffic Monitoring and Attack Detection	Detection Lab
+Security Automation with Shuffle SOAR	SOC Automation Lab
+Incident Response Planning and Execution	SOC Automation Lab
+Case Management with TheHive	SOC Automation Lab
+Scripting and Automation for Threat Mitigation	SOC Automation Lab
+Tools
+[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
+Network
+  
+Endpoint
+ 
+SIEM
+
+  ## Certifications
+- [Certified Information Systems Security Professional (CISSP)](https://www.credly.com/earner/earned/badge/2db1fe0c-934a-4d3f-bed9-5200865350d4)
+- [Certified Information Security Manager (CISM)](https://www.credly.com/earner/earned/badge/4d90dafb-8c17-4838-a8d6-ad675ddd5a57)
+- [Penetration Testing, Incident Response and Forensics](https://www.credly.com/earner/earned/badge/0c90ec7f-b656-46c2-b817-da90131db57f)
+- [IBM Cybersecurity Analyst Professional Certificate] (https://www.credly.com/org/coursera/badge/ibm-cybersecurity-analyst-professional-certificate)
+    
+Projects
+Case Study: MGM International Breach 2023 
