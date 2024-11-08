@@ -7,7 +7,6 @@ Objective
 My career journey has led me to develop a passion for cybersecurity, and I would now like to transition into more of a hands-on or individual contributor role. 
 
 Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 Skill	Associated Project
 SIEM Implementation and Log Analysis	Detection Lab
@@ -16,14 +15,18 @@ Security Automation with Shuffle SOAR	SOC Automation Lab
 Incident Response Planning and Execution	SOC Automation Lab
 Case Management with TheHive	SOC Automation Lab
 Scripting and Automation for Threat Mitigation	SOC Automation Lab
+
 Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+coming soon
 
 Network
+coming soon
   
 Endpoint
+coming soon
  
 SIEM
+coming soon
 
 ## Certifications
 - [Certified Information Systems Security Professional (CISSP)](https://www.credly.com/earner/earned/badge/2db1fe0c-934a-4d3f-bed9-5200865350d4)
