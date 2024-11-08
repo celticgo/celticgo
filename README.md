@@ -31,5 +31,5 @@ SIEM
 - [Penetration Testing, Incident Response and Forensics](https://www.credly.com/earner/earned/badge/0c90ec7f-b656-46c2-b817-da90131db57f)
 - [IBM Cybersecurity Analyst Professional Certificate] (https://www.credly.com/org/coursera/badge/ibm-cybersecurity-analyst-professional-certificate)
     
-Projects
-Case Study: MGM International Breach 2023 
+## Portfolio 
+- [Project 1 - ADDIE and Kirkpatrick Methodologies and Models, Articulate 360, RISE]([]](https://drive.google.com/drive/folders/1WQ_B5Eff0kTvIzIzRKzEQGl6S7CkBCPH?usp=sharing)
