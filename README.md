@@ -1,6 +1,6 @@
 Hello, I'm Andee Harston
 
-I am a cybersecurity professional with over 20 years experience in Cybersecurity, IT and Content Creation.  I hold a variety of certifications and have vast expereince in risk management in the federal saector.
+I am a cybersecurity professional with over 20 years experience in Cybersecurity, IT and Content Creation.  I hold a variety of certifications and have vast experience in risk management in the federal saector. I also have a strong background in graphic design, courseware creation, training management, curriculum developement and Security Awareness Training. 
 
 Objective
 
@@ -31,6 +31,12 @@ SIEM
 - [Penetration Testing, Incident Response and Forensics](https://www.credly.com/earner/earned/badge/0c90ec7f-b656-46c2-b817-da90131db57f)
 - [IBM Cybersecurity Analyst Professional Certificate] (https://www.credly.com/org/coursera/badge/ibm-cybersecurity-analyst-professional-certificate)
     
-## Portfolio 
+## Art, Graphic Design and Courseware Portfolio 
 - [Project 1 - ADDIE and Kirkpatrick Methodologies and Models, Articulate 360, RISE](https://drive.google.com/drive/folders/1WQ_B5Eff0kTvIzIzRKzEQGl6S7CkBCPH?usp=sharing)
-- 
+- [Andrea Harston Art on Instagram](www.instagram.com/andreaharstonart)
+- [Graphic Design and Fine Art Portfolio](www.andreaharstonart.com)
+- [Andrea Harston Art on Fine Art America](https://andrea-harston.pixels.com/)
+- [Andrea Harston Art on Etsy](https://www.etsy.com/shop/AndreaHarstonArt)
+
+- ## Cybersecurity Projects
+
