@@ -25,7 +25,7 @@ Endpoint
  
 SIEM
 
-  ## Certifications
+## Certifications
 - [Certified Information Systems Security Professional (CISSP)](https://www.credly.com/earner/earned/badge/2db1fe0c-934a-4d3f-bed9-5200865350d4)
 - [Certified Information Security Manager (CISM)](https://www.credly.com/earner/earned/badge/4d90dafb-8c17-4838-a8d6-ad675ddd5a57)
 - [Penetration Testing, Incident Response and Forensics](https://www.credly.com/earner/earned/badge/0c90ec7f-b656-46c2-b817-da90131db57f)
@@ -38,5 +38,5 @@ SIEM
 - [Andrea Harston Art on Fine Art America](https://andrea-harston.pixels.com/)
 - [Andrea Harston Art on Etsy](https://www.etsy.com/shop/AndreaHarstonArt)
 
-- ## Cybersecurity Projects
+## Cybersecurity Projects
 
