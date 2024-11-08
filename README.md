@@ -1,6 +1,6 @@
 Hello, I'm Andee Harston
 
-I am a cybersecurity professional with over 20 years experience in Cybersecurity, IT and Content Creation.  I hold a variety of certifications and have vast experience in risk management in the federal saector. I also have a strong background in graphic design, courseware creation, training management, curriculum developement and Security Awareness Training. 
+I am a cybersecurity professional with over 20 years experience in Cybersecurity, IT and Content Creation.  I hold a variety of certifications and have vast experience in risk management in the federal sector as a cybersecurity analyst, ISSO and ISSE. I also have a strong background in graphic design, courseware creation, training management, curriculum developement and Security Awareness Training. 
 
 Objective
 
