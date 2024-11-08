@@ -32,4 +32,5 @@ SIEM
 - [IBM Cybersecurity Analyst Professional Certificate] (https://www.credly.com/org/coursera/badge/ibm-cybersecurity-analyst-professional-certificate)
     
 ## Portfolio 
-- [Project 1 - ADDIE and Kirkpatrick Methodologies and Models, Articulate 360, RISE]([]](https://drive.google.com/drive/folders/1WQ_B5Eff0kTvIzIzRKzEQGl6S7CkBCPH?usp=sharing)
+- [Project 1 - ADDIE and Kirkpatrick Methodologies and Models, Articulate 360, RISE] (https://drive.google.com/drive/folders/1WQ_B5Eff0kTvIzIzRKzEQGl6S7CkBCPH?usp=sharing)
+- 
