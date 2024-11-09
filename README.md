@@ -38,6 +38,18 @@ FedRamp, Assessments, SEIM, Product Implementation, Roadmap Development, Workflo
  -[Project 4: Cryptography Cipher](https://github.com/celticgo/python/blob/main/python-cipher.py)
  
  -[Project 5: WHOIS Lookup](https://github.com/celticgo/python/blob/main/whois.py)
+
+ -[Project 6: CTF Challenge 1 - coming soon]
+
+ -[Project 7: Building a Honeypot - coming soon]
+
+ -[Project 8: Malware Analysis-coming soon]
+
+ -[Project 9: Wireshark Traffic Analysis - coming soon]
+
+ -[Project 10: Setting up a home network]
+ 
+ 
  
 ## Artificial Intelligence Working Groups and Projects
 -[NIST RMF for AI](https://www.nist.gov/itl/ai-risk-management-framework)
