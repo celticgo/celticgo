@@ -29,7 +29,7 @@ SIEM
 coming soon
 
 ## Certifications
-- [Certified Information Systems Security Professional (CISSP)](https://www.credly.com/earner/earned/badge/2db1fe0c-934a-4d3f-bed9-5200865350d4)
+- [Certified Information Systems Security Professional (CISSP)]([https://www.credly.com/earner/earned/badge/2db1fe0c-934a-4d3f-bed9-5200865350d4](https://www.credly.com/badges/2db1fe0c-934a-4d3f-bed9-5200865350d4/public_url)
 - [Certified Information Security Manager (CISM)](https://www.credly.com/earner/earned/badge/4d90dafb-8c17-4838-a8d6-ad675ddd5a57)
 - [Penetration Testing, Incident Response and Forensics](https://www.credly.com/earner/earned/badge/0c90ec7f-b656-46c2-b817-da90131db57f)
 - [IBM Cybersecurity Analyst Professional Certificate](https://www.credly.com/org/coursera/badge/ibm-cybersecurity-analyst-professional-certificate)
