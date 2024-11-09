@@ -28,3 +28,35 @@ FedRamp, Assessments, SEIM, Product Implementation, Roadmap Development, Workflo
 ## Cybersecurity Projects
 - [Case Study: MGM Resorts International Data Breach 2023](https://coursera-assessments.s3.amazonaws.com/assessments/1728158672868/8430c725-a8c6-496b-bd51-292b4fc51b45/Case%20Study-%20MGM%20Data%20Breach%202023.pdf)
 - [The Cyber Dirt Blog](https://thecyberdirt.substack.com/)
+
+## Artificial Intelligence Working Groups and Projects
+-[NIST RMF for AI]
+-[Women Leading Artificial Intelligence]
+-[Chatbot Development and Deployment Documentation]
+
+-[Responsible AI policy document, outlining ethical considerations and guidelines]
+Procedures for identifying and mitigating algorithmic bias in AI applications
+Framework for transparency and explainability in model decision-making
+Model Development and Evaluation Reports
+
+-[Brief case studies highlighting AI project outcomes (e.g., chatbot for customer service, predictive analytics)]
+Use case analysis with ROI or impact metrics (e.g., cost savings, efficiency gains)
+User Training Guides and Manuals
+
+-[User manuals for end-users of AI tools, explaining features and best practices]
+Training materials for internal teams on how to leverage AI systems effectively
+Performance and Impact Assessment Reports
+
+-[Competitive analysis report on AI trends and existing solutions]
+SWOT analysis and benchmarks comparing the company’s AI solutions to industry standards
+Risk and Compliance Documentation
+
+-[Risk assessments for data privacy and model security in AI deployments]
+Compliance documents demonstrating alignment with standards (e.g., GDPR, HIPAA)
+Algorithm Bias and Fairness Audit Reports
+
+-[Bias audit reports detailing fairness evaluations and corrective measures]
+Documentation of actions taken to mitigate identified biases and promote inclusivity
+Project Management and Planning Documents
+
+
