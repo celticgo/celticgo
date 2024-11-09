@@ -30,9 +30,13 @@ FedRamp, Assessments, SEIM, Product Implementation, Roadmap Development, Workflo
 - [The Cyber Dirt Blog](https://thecyberdirt.substack.com/)
 
  -[Project 1: Password Generator]
+ 
  -[Project 2: Password Manager]
+ 
  -[Project 3: Port Scanner]
+ 
  -[Project 4: Cryptography Cipher]
+ 
  -[Project 5: WHOIS Lookup]
  
 ## Artificial Intelligence Working Groups and Projects
