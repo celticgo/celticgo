@@ -40,7 +40,7 @@ FedRamp, Assessments, SEIM, Product Implementation, Roadmap Development, Workflo
  -[Project 5: WHOIS Lookup]
  
 ## Artificial Intelligence Working Groups and Projects
--[NIST RMF for AI]
+-[NIST RMF for AI](https://www.nist.gov/itl/ai-risk-management-framework)
 
 -[Women Leading Artificial Intelligence]
 
