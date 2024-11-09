@@ -31,8 +31,10 @@ FedRamp, Assessments, SEIM, Product Implementation, Roadmap Development, Workflo
 
 ## Artificial Intelligence Working Groups and Projects
 -[NIST RMF for AI]
+
 -[Women Leading Artificial Intelligence]
--[Chatbot Development and Deployment Documentation]
+
+-[Chatbot - coming soon]
 
 -[Responsible AI policy document, outlining ethical considerations and guidelines]
 Procedures for identifying and mitigating algorithmic bias in AI applications
