@@ -31,7 +31,7 @@ FedRamp, Assessments, SEIM, Product Implementation, Roadmap Development, Workflo
 
  -[Project 1: Password Generator](https://github.com/celticgo/python/blob/main/passgen.py)
  
- -[Project 2: Password Manager]
+ -[Project 2: Chat Bot - coming soon]
  
  -[Project 3: Port Scanner](https://github.com/celticgo/python/blob/main/python-nmap.py)
  
