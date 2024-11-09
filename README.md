@@ -4,29 +4,13 @@ I am a cybersecurity professional with over 20 years experience in Cybersecurity
 
 Objective
 
-My career journey has led me to develop a passion for cybersecurity, and I would now like to transition into more of a hands-on or individual contributor role. 
+I am interested in an individual contributor role or managing a smaller team. I would love to leverage my background in curriculum development and cybersecurty. I would also be open to a technical product manager or training manager role with the right company. I would even be interesting in shifting to a product marketing role with a cybersecurity company.
 
-Skills
+I am open to Full time, Part time or Contract work. I am willing to relocated to Maryland or Virigina. I am also interested in remote positions with less than 25% travel.
 
-Skill	Associated Project
-SIEM Implementation and Log Analysis	Detection Lab
-Network Traffic Monitoring and Attack Detection	Detection Lab
-Security Automation with Shuffle SOAR	SOC Automation Lab
-Incident Response Planning and Execution	SOC Automation Lab
-Case Management with TheHive	SOC Automation Lab
-Scripting and Automation for Threat Mitigation	SOC Automation Lab
+Skills and Tools
 
-Tools
-coming soon
-
-Network
-coming soon
-  
-Endpoint
-coming soon
- 
-SIEM
-coming soon
+FedRamp, Assessments, SEIM, Product Implementation, Roadmap Development, Workflow management, Technical writing, Articulate 360, Rise, Captivate, Camtasia, LMS, SCORM, Data governance, GCRC, CMMC, NIST, FISMA, Compliance, Curriculum Design, HBSS, IBM Cyber Product lines, Maltego, OSINT, Data Protection, Cybersecurity law, Training Development, Software Testing, OWASP, Python, Network Security, Cyber Policy, Graphic Design, Instructional Design, Technical Writing, Management, People Management, Splunk, QRadar, Wireshark, Kali Linux, Nessus, and more
 
 ## Certifications
 - [Certified Information Systems Security Professional (CISSP)](https://www.credly.com/badges/2db1fe0c-934a-4d3f-bed9-5200865350d4/public_url)
@@ -43,3 +27,4 @@ coming soon
 
 ## Cybersecurity Projects
 - [Case Study: MGM Resorts International Data Breach 2023](https://coursera-assessments.s3.amazonaws.com/assessments/1728158672868/8430c725-a8c6-496b-bd51-292b4fc51b45/Case%20Study-%20MGM%20Data%20Breach%202023.pdf)
+- [The Cyber Dirt Blog](https://thecyberdirt.substack.com/)
