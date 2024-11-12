@@ -20,6 +20,7 @@ FedRamp, Assessments, SEIM, Product Implementation, Roadmap Development, Workflo
     
 ## Art, Graphic Design and Courseware Portfolio 
 - [Project 1 - ADDIE and Kirkpatrick Methodologies and Models, Articulate 360, RISE](https://drive.google.com/drive/folders/1WQ_B5Eff0kTvIzIzRKzEQGl6S7CkBCPH?usp=sharing)
+- [Project 2 - Phishing Microlearning Module in Articulate 360 Rise - Hosted on GitHub](https://celticgo.github.io/Microlearning/#/lessons/qp2yxHNVg9aw3zELyHXkBizHYKZOA1rU)
 - [Andrea Harston Art on Instagram](www.instagram.com/andreaharstonart)
 - [Graphic Design and Fine Art Portfolio](www.andreaharstonart.com)
 - [Andrea Harston Art on Fine Art America](https://andrea-harston.pixels.com/)
