@@ -33,23 +33,18 @@ FedRamp, Assessments, SEIM, Product Implementation, Roadmap Development, Workflo
 
  -[Project 1: Password Generator](https://github.com/celticgo/python/blob/main/passgen.py)
  
- -[Project 2: Chat Bot - IBM Watson]
+ -[Project 2: Chat Bot - IBM Watson] - Coming soon
+
+ -[Project 3: Chat Bot2 - Python] - Coming Soon
  
- -[Project 3: Port Scanner](https://github.com/celticgo/python/blob/main/python-nmap.py)
+ -[Project 4: Port Scanner](https://github.com/celticgo/python/blob/main/python-nmap.py)
  
- -[Project 4: Cryptography Cipher](https://github.com/celticgo/python/blob/main/python-cipher.py)
+ -[Project 5: Cryptography Cipher](https://github.com/celticgo/python/blob/main/python-cipher.py)
  
- -[Project 5: WHOIS Lookup](https://github.com/celticgo/python/blob/main/whois.py)
+ -[Project 6: WHOIS Lookup](https://github.com/celticgo/python/blob/main/whois.py)
 
- -[Project 6: CTF Challenge 1 - coming soon]
+ -[Project 7: CTF Challenge 1 - coming soon]
 
- -[Project 7: Building a Honeypot - coming soon]
-
- -[Project 8: Malware Analysis-coming soon]
-
- -[Project 9: Wireshark Traffic Analysis - coming soon]
-
- -[Project 10: Setting up a home network]
  
  
  
