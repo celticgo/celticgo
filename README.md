@@ -10,7 +10,7 @@ I am open to Full time, Part time or Contract work. I am willing to relocated to
 
 Skills and Tools
 
-FedRamp, Assessments, SEIM, Product Implementation, Roadmap Development, Workflow management, Technical writing, Articulate 360, Rise, Captivate, Camtasia, LMS, SCORM, Data governance, GCRC, CMMC, NIST, FISMA, Compliance, Curriculum Design, HBSS, IBM Cyber Product lines, Maltego, OSINT, Data Protection, Cybersecurity law, Training Development, Software Testing, OWASP, Python, Network Security, Cyber Policy, Graphic Design, Instructional Design, Technical Writing, Management, People Management, Splunk, QRadar, Wireshark, Kali Linux, Nessus, and more
+FedRamp, Assessments, SEIM, Product Implementation, Roadmap Development, AI Prompt Engineering, ChatBot Development, Cyber Workforce Development, Content Strategy, Workflow management, Technical writing, Articulate 360, Rise, Captivate, Camtasia, LMS, SCORM, Data governance, GCRC, CMMC, NIST, FISMA, Compliance, Curriculum Design, HBSS, IBM Cyber Product lines, Maltego, OSINT, Data Protection, Cybersecurity law, Training Development, Software Testing, OWASP, Python, Network Security, Cyber Policy, Graphic Design, Instructional Design, Technical Writing, Management, People Management, Splunk, QRadar, Wireshark, Kali Linux, Nessus, and more
 
 ## Certifications
 - [Certified Information Systems Security Professional (CISSP)](https://www.credly.com/badges/2db1fe0c-934a-4d3f-bed9-5200865350d4/public_url)
