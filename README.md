@@ -35,7 +35,7 @@ FedRamp, Assessments, SEIM, Product Implementation, Roadmap Development, AI Prom
  
  -[Project 2: Chat Bot - IBM Watson] - Coming soon
 
- -[Project 3: Chat Bot2 - Python] - Coming Soon
+ -[Project 3: Chat Bot2 - Python: Cybersecurity Career Advisor](https://github.com/celticgo/python/blob/main/chatbot.py)
  
  -[Project 4: Port Scanner](https://github.com/celticgo/python/blob/main/python-nmap.py)
  
