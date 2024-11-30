@@ -30,7 +30,7 @@ FedRamp, Assessments, SEIM, Product Implementation, Roadmap Development, AI Prom
 - [Case Study: MGM Resorts International Data Breach 2023](https://coursera-assessments.s3.amazonaws.com/assessments/1728158672868/8430c725-a8c6-496b-bd51-292b4fc51b45/Case%20Study-%20MGM%20Data%20Breach%202023.pdf)
   
 - [The Cyber Dirt Blog](https://thecyberdirt.substack.com/)
-
+- [Cybersecurity Newsletter Example](https://github.com/celticgo/Microlearning/blob/gh-pages/cyber_newsletter.pdf)
  -[Project 1: Password Generator](https://github.com/celticgo/python/blob/main/passgen.py)
  
  -[Project 2: Chat Bot - IBM Watson] - Coming soon
