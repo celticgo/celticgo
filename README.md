@@ -31,7 +31,7 @@ FedRamp, Assessments, SEIM, Product Implementation, Roadmap Development, AI Prom
   
 - [The Cyber Dirt Blog](https://thecyberdirt.substack.com/)
   
-- [Cybersecurity Newsletter Example](https://github.com/celticgo/Microlearning/blob/gh-pages/cyber_newsletter.pdf)
+- [Cybersecurity Newsletter Example](https://assets.adobe.com/id/urn:aaid:sc:US:506aca6b-c093-40bd-a26a-efde2c60c309?view=published)
   
  -[Project 1: Password Generator](https://github.com/celticgo/python/blob/main/passgen.py)
  
