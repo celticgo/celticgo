@@ -29,7 +29,9 @@ FedRamp, Assessments, SEIM, Product Implementation, Roadmap Development, AI Prom
 ## Cybersecurity Projects
  -[Case Study: MGM Resorts International Data Breach 2023](https://coursera-assessments.s3.amazonaws.com/assessments/1728158672868/8430c725-a8c6-496b-bd51-292b4fc51b45/Case%20Study-%20MGM%20Data%20Breach%202023.pdf)
   
- -[The Cyber Dirt Blog](https://dontlooksecurity.substack.com/)
+ -[Don't Look Security Blog](https://dontlooksecurity.substack.com/)
+
+  -[Don't Look Security Website](https://www.dontlooksecurity.com/)  
   
  -[Cybersecurity Newsletter Example](https://assets.adobe.com/id/urn:aaid:sc:US:506aca6b-c093-40bd-a26a-efde2c60c309?view=published)
   
