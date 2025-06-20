@@ -13,6 +13,7 @@ Skills and Tools
 FedRamp, Assessments, SEIM, Product Implementation, Roadmap Development, AI Prompt Engineering, ChatBot Development, Cyber Workforce Development, Content Strategy, Workflow management, Technical writing, Articulate 360, Rise, Captivate, Camtasia, LMS, SCORM, Data governance, GCRC, CMMC, NIST, FISMA, Compliance, Curriculum Design, HBSS, IBM Cyber Product lines, Maltego, OSINT, Data Protection, Cybersecurity law, Training Development, Software Testing, OWASP, Python, Network Security, Cyber Policy, Graphic Design, Instructional Design, Technical Writing, Management, People Management, Splunk, QRadar, Wireshark, Kali Linux, Nessus, and more
 
 ## Certifications
+- [CompTia Cybersecurity Analyst](https://www.credly.com/badges/b3eb308b-4499-4963-b5c3-5c9a7870a50d/public_url)
 - [Certified Information Systems Security Professional (CISSP)](https://www.credly.com/badges/2db1fe0c-934a-4d3f-bed9-5200865350d4/public_url)
 - [Certified Information Security Manager (CISM)](https://www.credly.com/earner/earned/badge/4d90dafb-8c17-4838-a8d6-ad675ddd5a57)
 - [Penetration Testing, Incident Response and Forensics](https://www.credly.com/earner/earned/badge/0c90ec7f-b656-46c2-b817-da90131db57f)
