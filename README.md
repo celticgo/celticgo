@@ -2,10 +2,6 @@ Hello, I'm Andee Harston
 
 I am a cybersecurity professional with over 20 years experience in Cybersecurity, IT and Content Creation.  I hold a variety of certifications and have vast experience in risk management in the federal sector as a cybersecurity analyst, ISSO and ISSE. I also have a strong background in graphic design, courseware creation, training management, curriculum developement and Security Awareness Training. 
 
-Objective
-
-I am interested in an individual contributor role or managing a smaller team. I would love to leverage my background in curriculum development and cybersecurty. I would also be open to a technical product manager or training manager role with the right company. I would even be interesting in shifting to a product marketing role with a cybersecurity company.
-
 I am open to Full time, Part time or Contract work. I am willing to relocated to Maryland or Virigina. I am also interested in remote positions with less than 25% travel.
 
 Skills and Tools
@@ -16,6 +12,7 @@ FedRamp, Assessments, SEIM, Product Implementation, Roadmap Development, AI Prom
 - [CompTia Cybersecurity Analyst](https://www.credly.com/badges/b3eb308b-4499-4963-b5c3-5c9a7870a50d/public_url)
 - [Certified Information Systems Security Professional (CISSP)](https://www.credly.com/badges/2db1fe0c-934a-4d3f-bed9-5200865350d4/public_url)
 - [Certified Information Security Manager (CISM)](https://www.credly.com/earner/earned/badge/4d90dafb-8c17-4838-a8d6-ad675ddd5a57)
+- [CompTia Pentest +]
 - [Penetration Testing, Incident Response and Forensics](https://www.credly.com/earner/earned/badge/0c90ec7f-b656-46c2-b817-da90131db57f)
 - [IBM Cybersecurity Analyst Professional Certificate](https://www.credly.com/org/coursera/badge/ibm-cybersecurity-analyst-professional-certificate)
     
